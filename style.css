@@ -1,0 +1,54 @@
+
+    .header1{
+        margin: 5px 25px;
+      
+    }
+
+    .bodymargin{
+        margin:0px 60px 60px 0px;
+    }
+    
+  .row1{
+        margin: 35px 85px 20px;
+        
+    }
+    .navbar1{
+        margin:0px 0px;
+        
+    }
+   
+      
+
+    .box {
+        width: 11rem;
+        height: 11rem;
+        margin: 0.8rem;
+        border-radius: .3rem;
+        border: .3px solid rgba(88, 85, 85, 0.548);
+        background-color: #f9f9f9;
+        font-size: larger;
+    }
+    .box1 {
+        width: 14rem;
+        height: 8rem;
+        margin: .8rem;
+        border-radius: .3rem;
+        border: .3px solid rgba(88, 85, 85, 0.548);
+        background-color: #f9f9f9;
+      
+        line-height: 1.2;
+    font-size: larger;
+    ;
+    bottom: 1rem;
+        
+    }
+    .grad{
+        background-image: linear-gradient(to right, rgb(56, 157, 216) , rgb(8, 44, 92));
+    }
+    .brbottom{
+        border-bottom: 1px solid rgba(88, 85, 85, 0.548);
+        
+    }
+    .space{
+margin-right: 1rem;
+    }
